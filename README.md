@@ -39,5 +39,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+Project files:
+1. NLP Model for Interpreting Health-Related Queries:  nlp_model.py
+2. Model for Suggesting Personalized Health Plans: health_plan_model.py
+3. API Development with Flask: app.py
+4. Database Management: database.py
+5. Create HTML and CSS Files: index.html: style.css
+6. Create JavaScript File for API Calls and Logic: app.js
 
 
